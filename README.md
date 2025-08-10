@@ -191,3 +191,7 @@ Aurora MySQL Database (Private Subnet)
 - Automated backup and recovery
 - Monitoring and alerting setup
 - Scalable architecture design
+
+**Outcome**: Hybrid approach demonstrating both automated infrastructure and manual application deployment
+
+![CloudFormation Architecture](https://github.com/user-attachments/assets/01a5a360-e550-4b76-82c7-8a27800ec777)
