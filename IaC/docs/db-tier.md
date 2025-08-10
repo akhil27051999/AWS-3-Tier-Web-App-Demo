@@ -1,4 +1,4 @@
-# Three-Tier Database CloudFormation Template
+# Three-Tier Database CloudFormation Template 
 
 This CloudFormation template creates the database tier using Amazon Aurora MySQL for a three-tier web architecture.
 
