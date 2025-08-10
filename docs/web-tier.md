@@ -1,6 +1,6 @@
 # Web Tier (Frontend) Setup Guide
 
-This guide covers deploying the React frontend application on EC2 instances with Nginx, proxying API calls to the app tier.
+This guide covers deploying the React frontend application on EC2 instances with Nginx, proxying API calls to the app tier. 
 
 ## Web Tier Installation Video
 
