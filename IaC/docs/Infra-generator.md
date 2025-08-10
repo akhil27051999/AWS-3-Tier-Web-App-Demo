@@ -1,6 +1,6 @@
 # AWS IaC Generator
 
-Generate CloudFormation templates using AWS IaC Generator for the three-tier architecture.
+Generate CloudFormation templates using AWS IaC Generator for the three-tier architecture. 
 
 https://github.com/user-attachments/assets/615fa152-35ad-4d1a-86e9-b0cad31c2df3
 
