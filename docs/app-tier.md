@@ -1,4 +1,4 @@
-# App Tier (Backend) Setup Guide
+# App Tier (Backend) Setup Guide 
 
 This guide covers deploying the Node.js backend application on EC2 instances in the private subnet, connecting to Aurora MySQL database.
 
